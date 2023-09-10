@@ -1,0 +1,20 @@
+html,
+body {
+  overflow-x: hidden;
+  background: url(../public/bg.jpg);
+}
+.side_nav {
+  width: 275px;
+  height: 100%;
+  background-color: #575866!important
+  ;
+  /* position: fixed; */
+}
+.wrapper {
+  display: flex;
+  background-size: cover;
+}
+.content {
+  height: 100vh;
+  width: calc(100% - 275px);
+}
