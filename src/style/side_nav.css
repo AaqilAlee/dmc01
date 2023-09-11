@@ -45,15 +45,7 @@ body{
 }
 
 /* topbar start*/
-.content{
-  height: 100vh!important;
-  border-radius: 5px;
-  overflow-y: scroll;
-}
-.topbar{
-  height: 70px;
-  background-color: #ffffff;
-}
+
 .add_btn_color{
   background-color: #575866!important;
 }
@@ -65,4 +57,12 @@ color: black!important;
 }
 .add_employ .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
   font-weight: 600!important;
+}
+.table_head{
+  white-space: nowrap;
+  vertical-align: middle;
+}
+.logo{
+  height: 30px;
+  width: 50px;
 }

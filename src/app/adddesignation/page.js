@@ -1,12 +1,11 @@
-import AddDesignation from '@/Components/Designation/AddDesignation'
-import React from 'react'
-
+import React from "react";
+import AddDesignation from "../../Components/AppModules/Designation/AddDesignation";
 const page = () => {
   return (
     <>
-      <AddDesignation/>
+      <AddDesignation />
     </>
-  )
-}
+  );
+};
 
-export default page
+export default page;

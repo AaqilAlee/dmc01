@@ -1,8 +1,9 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./globals.css";
-import "./style/side_nav.css";
-import SideManu from "../Components/SideManu/page";
-import Navbar from "../Components/TopNavbar/page";
+import "../style/side_nav.css";
+import "../style/topbar.css";
+import SideManu from "../Components/AppLayouts/SideManu/page";
+import Navbar from "../Components/AppLayouts/TopNavbar/page";
 
 export const metadata = {
   title: "Api hrm",

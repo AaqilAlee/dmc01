@@ -1,9 +1,10 @@
 import React from 'react'
+import Settings from '../../Components/AppModules/Settings/Manage'
 
 const page = () => {
   return (
-    <div className='topbar shadow'>
-      
+    <div>
+      <Settings/>
     </div>
   )
 }

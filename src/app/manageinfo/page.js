@@ -1,4 +1,4 @@
-import ManageInfo from '@/Components/ManageInfo/ManageInfo'
+import ManageInfo from '../../Components/AppModules/ManageInfo/ManageInfo'
 import React from 'react'
 
 const page = () => {

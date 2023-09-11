@@ -1,5 +1,6 @@
 import React from 'react'
-import Employee from '../../Components/Employee/page'
+import Employee from '../../Components/AppModules/Employee/page'
+
 
 const page = () => {
   return (
